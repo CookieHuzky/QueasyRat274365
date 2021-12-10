@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QueasyRat274365
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning ECMAScript
 
 <!---
 QueasyRat274365/QueasyRat274365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
